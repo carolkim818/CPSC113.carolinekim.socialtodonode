@@ -1,0 +1,25 @@
+{
+  "name": "caroline-socialtodo-node",
+  "version": "1.0.0",
+  "description": "Social todo #1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolkim818/CPSC113.carolinekim.socialtodonode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolkim818/CPSC113.carolinekim.socialtodonode/issues"
+  },
+  "homepage": "https://github.com/carolkim818/CPSC113.carolinekim.socialtodonode#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  }
+}
